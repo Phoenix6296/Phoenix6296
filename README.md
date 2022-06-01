@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px/> &nbsp;I'm Krishna Biswakarma<img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" align="right"/>
+### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px/> &nbsp;I'm Krishna Biswakarma!(https://github-readme-stats.vercel.app/api?username=Phoenix6296&show_icons=true&theme=merko)
+
 
 <br/>
 <p align="center">
