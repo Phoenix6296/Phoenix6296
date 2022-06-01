@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px/> &nbsp;I'm Krishna Biswakarma!(https://github-readme-stats.vercel.app/api?username=Phoenix6296&show_icons=true&theme=merko)
-
+### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px/> &nbsp;I'm Krishna Biswakarma <img src="https://komarev.com/ghpvc/?username=Phoenix6296&color=green" align="right"/>
 
 <br/>
 <p align="center">
