@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on Volteo Maritime
 - 🌱 I’m currently learning Computer Science and Engineering
 - 👯 I’m looking to collaborate on any projects that requires my skills.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about, I would be happy to help.
 - 📫 How to reach me: <a href = "mailto:krishnabiswakarmasc@gmail.com">Let's get in touch!</a>
 
