@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px/> &nbsp;I'm Krishna Biswakarma <img src="https://komarev.com/ghpvc/?username=Phoenix6296&color=green" align="right"/>
+### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px height=20px/> &nbsp;I'm Krishna Biswakarma <img src="https://komarev.com/ghpvc/?username=Phoenix6296&color=green" align="right"/>
 
 <br/>
 <p align="center">
