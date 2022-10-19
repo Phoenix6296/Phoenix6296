@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on Volteo Maritime
-- 🌱 I’m currently learning Computer Science and Engineering
+- 🔭 I have 1+ year of experience as a Software Developer.
+- 🌱 I’m currently pursuing Computer Science and Engineering(Final Year).
 - 👯 I’m looking to collaborate on any projects that requires my skills.
 - 💬 Ask me about, I would be happy to help.
 - 📫 How to reach me: <a href = "mailto:krishnabiswakarmasc@gmail.com">Let's get in touch!</a>
