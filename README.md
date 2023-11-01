@@ -7,11 +7,11 @@
 <br/>
 
 
-
-- 🔭 I have 1+ year of experience as a Software Developer.
-- 🌱 I’m currently pursuing Computer Science and Engineering(Final Year).
+- 👨🏻‍💻 I am a full stack developer with expertise in front-end development.
+- 🔭 I have 1+ years of experience as a Software Developer.
+- 🌱 I’m a Computer Science and Engineering Graduate.
 - 👯 I’m looking to collaborate on any projects that requires my skills.
-- 💬 Ask me about, I would be happy to help.
+- 💬 Ask me about it, I would be happy to help.
 - 📫 How to reach me: <a href = "mailto:krishnabiswakarmasc@gmail.com">Let's get in touch!</a>
 
 <h3>⚡ Github Stats</h3>
