@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width=20px height=20px/> &nbsp;I'm Krishna Biswakarma <img src="https://komarev.com/ghpvc/?username=Phoenix6296&color=green" align="right"/>
+### Hi there <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="20px" height="20px"/> &nbsp; I'm Krishna Biswakarma <img src="https://komarev.com/ghpvc/?username=Phoenix6296&color=green" align="right"/>
 
 <br/>
 <p align="center">
@@ -6,15 +6,13 @@
 </p>
 <br/>
 
+- 🌱 Currently pursuing a Master's in Computer Science and Engineering at IIT Kharagpur.
+- 👨🏻‍💻 Formerly with Deloitte, OpeninApp, and others.
+- 🔭 Over 1 year of experience building high-quality, reliable systems with impeccable user experiences.
+- 👯 I’m open to collaborating on projects that align with my skill set.
+- 💬 Feel free to ask me anything; I’d be happy to help.
+- 📫 How to reach me: <a href="mailto:krishnabiswakarmasc@gmail.com">Let’s get in touch!</a>
 
-- 👨🏻‍💻 I am a full stack developer with expertise in front-end development.
-- 🔭 I have 1+ years of experience as a Software Developer.
-- 🌱 I’m a Computer Science and Engineering Graduate.
-- 👯 I’m looking to collaborate on any projects that requires my skills.
-- 💬 Ask me about it, I would be happy to help.
-- 📫 How to reach me: <a href = "mailto:krishnabiswakarmasc@gmail.com">Let's get in touch!</a>
-
-<h3>⚡ Github Stats</h3>
+<h3>⚡ GitHub Stats</h3>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Phoenix6296&show_icons=true&theme=merko)
-
